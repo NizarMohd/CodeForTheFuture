@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+# IDEA files
+/.idea/
+/out/
+/*.iml
+
+encrypt.py
+week1.py
+/venv/
